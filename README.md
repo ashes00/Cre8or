@@ -159,10 +159,6 @@ This tool follows the [freedesktop.org Desktop Entry Specification](https://spec
 - Basic desktop entry creation
 - GTK interface
 
-## License
-
-This project is licensed under the GPL-3.0 License.
-
 ## Contributing
 
 Feel free to submit issues, feature requests, or pull requests to improve the application.
