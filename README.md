@@ -165,8 +165,8 @@ Feel free to submit issues, feature requests, or pull requests to improve the ap
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/ashes00/Cre8or-c/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ashes00/Cre8or-c/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ashes00/Cre8or/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ashes00/Cre8or/discussions)
 - **Website**: [https://github.com/ashes00/](https://github.com/ashes00/)
 
 ---
